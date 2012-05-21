@@ -17,7 +17,7 @@ raw_input()
 output = open(to_file, 'w')
 output.write(indata)
 
-print "Alright, all done"
+print "right, all done"
 
 output.close()
 input.close()
