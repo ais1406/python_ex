@@ -10,7 +10,8 @@ try:
     import PyQRNative
 except ImportError:
     PyQRNative = None
- 
+"asdasda"
+
 ########################################################################
 class QRPanel(wx.Panel):
     """"""
